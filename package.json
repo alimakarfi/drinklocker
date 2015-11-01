@@ -1,7 +1,9 @@
 {
-    "name" : "drinklocker",
-    "main" : "server.js",
-    "dependencies" : {
-        "express" : "~4.1.1"
-    }
+  "name": "drinklocker",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "~4.1.1",
+    "mongoose": "^4.2.3"
+  }
 }
